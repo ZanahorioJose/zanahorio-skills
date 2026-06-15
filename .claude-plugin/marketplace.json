@@ -1,0 +1,10 @@
+{
+    "name": "Doreamon",
+    "owner": { "name": "ZanahorioJose" },
+    "plugins": [
+        {
+            "name": "Doreamon", 
+            "source": "./" 
+            }
+        ]
+}
