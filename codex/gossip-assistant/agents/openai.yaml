@@ -1,0 +1,4 @@
+interface:
+  display_name: "吃瓜分析助手"
+  short_description: "把长篇吃瓜素材提炼为事件、人物、关系、评论四层结构化分析"
+  default_prompt: "用 $gossip-assistant 分析这份吃瓜素材，输出结构化总结报告。"
